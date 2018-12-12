@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## lizelu is a stupid girl
 
 You can use the [editor on GitHub](https://github.com/chrissy444/amazing-wang-stupid-li/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
